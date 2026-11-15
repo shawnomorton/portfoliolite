@@ -1,0 +1,6 @@
+# Full-size originals stay on your computer; the site only needs media/.
+originals/*
+!originals/README.txt
+media/.build-cache.json
+.DS_Store
+Thumbs.db
