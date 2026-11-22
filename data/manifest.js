@@ -4,641 +4,110 @@ window.PORTFOLIO = {
  "home": [
   {
    "type": "image",
-   "name": "coastline-01",
-   "src": "media/home/coastline-01-2000.webp",
+   "name": "1",
+   "src": "media/home/1-2000.webp",
    "srcset": {
-    "640": "media/home/coastline-01-640.webp",
-    "1280": "media/home/coastline-01-1280.webp",
-    "2000": "media/home/coastline-01-2000.webp"
+    "640": "media/home/1-640.webp",
+    "1280": "media/home/1-1280.webp",
+    "2000": "media/home/1-2000.webp"
    },
-   "width": 2400,
-   "height": 3000,
-   "alt": "Coastline 01",
-   "lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAAAQBQCdASoYAB4APu1ip06ppSMiMBgMATAdiWUAnQA0b9x1v5gwDTdaHaBrmvcrcwugAP7tO0hpp3phaYRR1hinIccA1k1l/IZoOrp4Xx4bGAAA",
-   "series": "coastline"
+   "width": 5646,
+   "height": 3764,
+   "alt": "1",
+   "lqip": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAAAQBACdASoYABAAPu1orU6ppiSiMAgBMB2JYwDE2CIJpez0dXFPrgSLFAD+3sXGO4oYQoDnEvkrFQCev2nlQ8ktqBvRb4DDAW1SLAAA",
+   "series": null
   },
   {
    "type": "image",
-   "name": "coastline-02",
-   "src": "media/home/coastline-02-2000.webp",
+   "name": "2",
+   "src": "media/home/2-2000.webp",
    "srcset": {
-    "640": "media/home/coastline-02-640.webp",
-    "1280": "media/home/coastline-02-1280.webp",
-    "2000": "media/home/coastline-02-2000.webp"
+    "640": "media/home/2-640.webp",
+    "1280": "media/home/2-1280.webp",
+    "2000": "media/home/2-2000.webp"
    },
-   "width": 3000,
-   "height": 2000,
-   "alt": "Coastline 02",
-   "lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAACQAwCdASoYABAAPu1krU2ppaSiMAgBMB2JZQDE2CHWgEt7VoiAAP7nXloLphtRKZmPfhI1f0KThh0gIFwAAA==",
-   "series": "coastline"
+   "width": 5680,
+   "height": 3787,
+   "alt": "2",
+   "lqip": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAADQAwCdASoYABAAPu1Ct1apoqakGAEwHYlkAJ0ygAo+pD5ChEEgw0AA/vcJBxIX/CFXoRTCuFFlK0NAL06lhifoqdZ5js/Rya/6u2iO13ddoJwSgILIflgA",
+   "series": null
   },
   {
    "type": "image",
-   "name": "coastline-03",
-   "src": "media/home/coastline-03-2000.webp",
+   "name": "3",
+   "src": "media/home/3-2000.webp",
    "srcset": {
-    "640": "media/home/coastline-03-640.webp",
-    "1280": "media/home/coastline-03-1280.webp",
-    "2000": "media/home/coastline-03-2000.webp"
+    "640": "media/home/3-640.webp",
+    "1280": "media/home/3-1280.webp",
+    "2000": "media/home/3-2000.webp"
    },
-   "width": 3000,
-   "height": 1690,
-   "alt": "Coastline 03",
-   "lqip": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADwAwCdASoYAA4APu1kq04ppaQiMAgBMB2JYwC06CHYxva31Hmt1ogAAP7fQl8ORdWz12oUEUyh+Z4nQIY7kDSJsyLrO4AA",
-   "series": "coastline"
+   "width": 4000,
+   "height": 5176,
+   "alt": "3",
+   "lqip": "data:image/webp;base64,UklGRpAAAABXRUJQVlA4IIQAAADwBACdASoYAB8APuFeqE2opSQiMAwBEBwJZQDA3B5MGa7ae1pCZ87Fcv/VoMBRn0AAwFwZLCZv5y1y1LLjqh771osiCbq0lP5inT7zjyVN6YU9U8o5Y6iRDBktqH4FtyfYBKLCSBRosZqqE2B6YgYsthMGAGEZw8WNSx7D3tkTG6jQAAA=",
+   "series": null
   },
   {
    "type": "image",
-   "name": "lab-light-01",
-   "src": "media/home/lab-light-01-2000.webp",
+   "name": "4",
+   "src": "media/home/4-2000.webp",
    "srcset": {
-    "640": "media/home/lab-light-01-640.webp",
-    "1280": "media/home/lab-light-01-1280.webp",
-    "2000": "media/home/lab-light-01-2000.webp"
+    "640": "media/home/4-640.webp",
+    "1280": "media/home/4-1280.webp",
+    "2000": "media/home/4-2000.webp"
    },
-   "width": 2400,
-   "height": 3000,
-   "alt": "Lab Light 01",
-   "lqip": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAwBACdASoYAB4APu1krE4ppaSiKA1RMB2JZgDKAFSn0nDurjyjyiTVOgAA/vCXu/Lg+H7O3i54fV+qwy8ApuJOqi4BB3XBlOZT1syrbQ3VNgdTRjPrRxxwj/G6QAAA",
-   "series": "lab-light"
+   "width": 3024,
+   "height": 2268,
+   "alt": "4",
+   "lqip": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAABQBACdASoYABIAPu1orVCppaQiqAqpMB2JYgC7M2QBDm/FiMgNHGHFOtxkAMxEwJ3DoCbXFIh1tdV49QzsYC98wQ5/RzDW0SIg82/VCW+QSJ01fbKm8kfJm3e1j6uY21dAAAAA",
+   "series": null
   },
   {
    "type": "image",
-   "name": "lab-light-02",
-   "src": "media/home/lab-light-02-2000.webp",
+   "name": "5",
+   "src": "media/home/5-2000.webp",
    "srcset": {
-    "640": "media/home/lab-light-02-640.webp",
-    "1280": "media/home/lab-light-02-1280.webp",
-    "2000": "media/home/lab-light-02-2000.webp"
+    "640": "media/home/5-640.webp",
+    "1280": "media/home/5-1280.webp",
+    "2000": "media/home/5-2000.webp"
    },
-   "width": 2400,
-   "height": 3000,
-   "alt": "Lab Light 02",
-   "lqip": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAAAwBACdASoYAB4APu1qrlCppaQiqAqpMB2JQBlABp1sB+Wlu5ckXXAbKgAA/u/qALxTYehN3Vd9/b+P3STyzZbOOSJluy8mD5dSvAPDxQzjclD/MQmCxoTFEa+rOQVauB/jMFTGmYAAAA==",
-   "series": "lab-light"
+   "width": 3336,
+   "height": 2502,
+   "alt": "5",
+   "lqip": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAAAwBQCdASoYABIAPu1krU+ppSQiMBgIATAdiWQAnTLtANgVmGfl/etyDUHNubA2iH3AAAD7ojIMYC203feQ/Yqc+3Weq7xvsEpJo3hx4BAzRJWM+OP+zibNkfXPFkoh45bfo6ZZXrWzIV7vjNRi8Gl1hVcs40Xp0hyAAA==",
+   "series": null
   },
   {
    "type": "image",
-   "name": "lab-light-03",
-   "src": "media/home/lab-light-03-2000.webp",
+   "name": "6",
+   "src": "media/home/6-2000.webp",
    "srcset": {
-    "640": "media/home/lab-light-03-640.webp",
-    "1280": "media/home/lab-light-03-1280.webp",
-    "2000": "media/home/lab-light-03-2000.webp"
+    "640": "media/home/6-640.webp",
+    "1280": "media/home/6-1280.webp",
+    "2000": "media/home/6-2000.webp"
    },
-   "width": 3000,
-   "height": 2000,
-   "alt": "Lab Light 03",
-   "lqip": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAABwAwCdASoYABAAPu1Ct1apoqakGAEwHYljALDsE/QtLt4wIEAA/tQVFE6oc+h+yR/pck3G6bxY3du47s1obtl8aD2NCFw77PlfJYIA",
-   "series": "lab-light"
+   "width": 6000,
+   "height": 4000,
+   "alt": "6",
+   "lqip": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAADwAwCdASoYABAAPu1iqU2ppaOiMAgBMB2JYwC06CHaUTz779Lnf/agAP7v60GmAqLHTNlD7KNv3VJZfJeZ2wAXVEzgW+AvYFa09rs5wAA=",
+   "series": null
   },
   {
    "type": "image",
-   "name": "night-drive-01",
-   "src": "media/home/night-drive-01-2000.webp",
+   "name": "7",
+   "src": "media/home/7-2000.webp",
    "srcset": {
-    "640": "media/home/night-drive-01-640.webp",
-    "1280": "media/home/night-drive-01-1280.webp",
-    "2000": "media/home/night-drive-01-2000.webp"
+    "640": "media/home/7-640.webp",
+    "1280": "media/home/7-1280.webp",
+    "2000": "media/home/7-2000.webp"
    },
-   "width": 2400,
-   "height": 3000,
-   "alt": "Night Drive 01",
-   "lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAACQAwCdASoYAB4APu1mqk2ppaQiMAgBMB2JQBjkYAA6JFmDerP0AP7wxBFy7WisD4CeCP4P4aCJSCWTZqBLAS+R0baxZ+/n/AAAAA==",
-   "series": "night-drive"
-  },
-  {
-   "type": "image",
-   "name": "night-drive-02",
-   "src": "media/home/night-drive-02-2000.webp",
-   "srcset": {
-    "640": "media/home/night-drive-02-640.webp",
-    "1280": "media/home/night-drive-02-1280.webp",
-    "2000": "media/home/night-drive-02-2000.webp"
-   },
-   "width": 3000,
-   "height": 1690,
-   "alt": "Night Drive 02",
-   "lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAACwAwCdASoYAA4APu1kqU2ppaQiMAgBMB2JaACdACIfZZmh5myiYAD+7DdV/k3AcGPIniHw7d9H6+dQP6/cCOsYkADgqlV/WAVRBgl/cwAAAA==",
-   "series": "night-drive"
-  },
-  {
-   "type": "image",
-   "name": "night-drive-03",
-   "src": "media/home/night-drive-03-2000.webp",
-   "srcset": {
-    "640": "media/home/night-drive-03-640.webp",
-    "1280": "media/home/night-drive-03-1280.webp",
-    "2000": "media/home/night-drive-03-2000.webp"
-   },
-   "width": 3000,
-   "height": 1690,
-   "alt": "Night Drive 03",
-   "lqip": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAABQBACdASoYAA4APu1iqU2ppaOiMAgBMB2JaACdMoRwJoACcrsR7/081A4AAP7p2iG8pYNjS/6Dr1q5ulPpfuLVPwCyCUez5nrTUFx16UMd+LjFhD584m70Uz8nIfZVW2czsoIGgwsAAA==",
-   "series": "night-drive"
+   "width": 6000,
+   "height": 4000,
+   "alt": "7",
+   "lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAACwAwCdASoYABAAPu1iqU2ppaQiMAgBMB2JZwC/OBr9PE5fLkyOoADeUc5Tq7ZvC+FfKr01KCeo29Kj0nWNX54mEKN0w34qAS6h3Sui7T+rYXvq4AA=",
+   "series": null
   }
  ],
- "series": [
-  {
-   "slug": "coastline",
-   "title": "Coastline",
-   "year": "2025",
-   "description": "Fog, tide lines and long exposures along the Pacific edge.",
-   "hidden": false,
-   "cover": {
-    "type": "image",
-    "name": "coastline-01",
-    "src": "media/coastline/coastline-01-2000.webp",
-    "srcset": {
-     "640": "media/coastline/coastline-01-640.webp",
-     "1280": "media/coastline/coastline-01-1280.webp",
-     "2000": "media/coastline/coastline-01-2000.webp"
-    },
-    "width": 2400,
-    "height": 3000,
-    "alt": "Coastline 01",
-    "lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAAAQBQCdASoYAB4APu1ip06ppSMiMBgMATAdiWUAnQA0b9x1v5gwDTdaHaBrmvcrcwugAP7tO0hpp3phaYRR1hinIccA1k1l/IZoOrp4Xx4bGAAA"
-   },
-   "items": [
-    {
-     "type": "image",
-     "name": "coastline-01",
-     "src": "media/coastline/coastline-01-2000.webp",
-     "srcset": {
-      "640": "media/coastline/coastline-01-640.webp",
-      "1280": "media/coastline/coastline-01-1280.webp",
-      "2000": "media/coastline/coastline-01-2000.webp"
-     },
-     "width": 2400,
-     "height": 3000,
-     "alt": "Coastline 01",
-     "lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAAAQBQCdASoYAB4APu1ip06ppSMiMBgMATAdiWUAnQA0b9x1v5gwDTdaHaBrmvcrcwugAP7tO0hpp3phaYRR1hinIccA1k1l/IZoOrp4Xx4bGAAA"
-    },
-    {
-     "type": "image",
-     "name": "coastline-02",
-     "src": "media/coastline/coastline-02-2000.webp",
-     "srcset": {
-      "640": "media/coastline/coastline-02-640.webp",
-      "1280": "media/coastline/coastline-02-1280.webp",
-      "2000": "media/coastline/coastline-02-2000.webp"
-     },
-     "width": 3000,
-     "height": 2000,
-     "alt": "Coastline 02",
-     "lqip": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAACQAwCdASoYABAAPu1krU2ppaSiMAgBMB2JZQDE2CHWgEt7VoiAAP7nXloLphtRKZmPfhI1f0KThh0gIFwAAA=="
-    },
-    {
-     "type": "image",
-     "name": "coastline-03",
-     "src": "media/coastline/coastline-03-2000.webp",
-     "srcset": {
-      "640": "media/coastline/coastline-03-640.webp",
-      "1280": "media/coastline/coastline-03-1280.webp",
-      "2000": "media/coastline/coastline-03-2000.webp"
-     },
-     "width": 3000,
-     "height": 1690,
-     "alt": "Coastline 03",
-     "lqip": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADwAwCdASoYAA4APu1kq04ppaQiMAgBMB2JYwC06CHYxva31Hmt1ogAAP7fQl8ORdWz12oUEUyh+Z4nQIY7kDSJsyLrO4AA"
-    },
-    {
-     "type": "image",
-     "name": "coastline-04",
-     "src": "media/coastline/coastline-04-2000.webp",
-     "srcset": {
-      "640": "media/coastline/coastline-04-640.webp",
-      "1280": "media/coastline/coastline-04-1280.webp",
-      "2000": "media/coastline/coastline-04-2000.webp"
-     },
-     "width": 3000,
-     "height": 2000,
-     "alt": "Coastline 04",
-     "lqip": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAACQAwCdASoYABAAPu1yrU+pp6QiMAgBMB2JQBdgDRC9jPTPxwiAAP7wFGkl8FVdqE1RVUXdSHWpnIPdv9h/2F6FbMnP7+PM6DcFY+n4AAA="
-    },
-    {
-     "type": "image",
-     "name": "coastline-05",
-     "src": "media/coastline/coastline-05-2000.webp",
-     "srcset": {
-      "640": "media/coastline/coastline-05-640.webp",
-      "1280": "media/coastline/coastline-05-1280.webp",
-      "2000": "media/coastline/coastline-05-2000.webp"
-     },
-     "width": 2400,
-     "height": 3000,
-     "alt": "Coastline 05",
-     "lqip": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAACwBACdASoYAB4APu1wr1EppqQiqAqpMB2JZwDCgDTjQfhKrDr5KX2h3cR2LNQAAP7xyfNlJ0jvYyXV3vjK+WAEkc4id5x/dLwqWw0yFJosmFbpWOW0Z8ZIAAA="
-    },
-    {
-     "type": "image",
-     "name": "coastline-06",
-     "src": "media/coastline/coastline-06-2000.webp",
-     "srcset": {
-      "640": "media/coastline/coastline-06-640.webp",
-      "1280": "media/coastline/coastline-06-1280.webp",
-      "2000": "media/coastline/coastline-06-2000.webp"
-     },
-     "width": 2000,
-     "height": 3000,
-     "alt": "Coastline 06",
-     "lqip": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAAAQBQCdASoYACQAPu1mqk2pv6QiMBqqq/AdiWIArDOhxhraTiaXqleIiy3LCx6YjNloAP7ulj96P5qUfjtoDzQooKH0NVK1446jTcb5r6pDOATBC+K2neNV9bp+cLmJ0kvJv8CFHNN+jYtCLx+f4/XubR5cAAAA"
-    }
-   ]
-  },
-  {
-   "slug": "lab-light",
-   "title": "Lab Light",
-   "year": "2026",
-   "description": "Still lifes from the bench: glass, gradients and the glow of a cytometer at 2 a.m.",
-   "hidden": false,
-   "cover": {
-    "type": "image",
-    "name": "lab-light-01",
-    "src": "media/lab-light/lab-light-01-2000.webp",
-    "srcset": {
-     "640": "media/lab-light/lab-light-01-640.webp",
-     "1280": "media/lab-light/lab-light-01-1280.webp",
-     "2000": "media/lab-light/lab-light-01-2000.webp"
-    },
-    "width": 2400,
-    "height": 3000,
-    "alt": "Lab Light 01",
-    "lqip": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAwBACdASoYAB4APu1krE4ppaSiKA1RMB2JZgDKAFSn0nDurjyjyiTVOgAA/vCXu/Lg+H7O3i54fV+qwy8ApuJOqi4BB3XBlOZT1syrbQ3VNgdTRjPrRxxwj/G6QAAA"
-   },
-   "items": [
-    {
-     "type": "image",
-     "name": "lab-light-01",
-     "src": "media/lab-light/lab-light-01-2000.webp",
-     "srcset": {
-      "640": "media/lab-light/lab-light-01-640.webp",
-      "1280": "media/lab-light/lab-light-01-1280.webp",
-      "2000": "media/lab-light/lab-light-01-2000.webp"
-     },
-     "width": 2400,
-     "height": 3000,
-     "alt": "Lab Light 01",
-     "lqip": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAwBACdASoYAB4APu1krE4ppaSiKA1RMB2JZgDKAFSn0nDurjyjyiTVOgAA/vCXu/Lg+H7O3i54fV+qwy8ApuJOqi4BB3XBlOZT1syrbQ3VNgdTRjPrRxxwj/G6QAAA"
-    },
-    {
-     "type": "image",
-     "name": "lab-light-02",
-     "src": "media/lab-light/lab-light-02-2000.webp",
-     "srcset": {
-      "640": "media/lab-light/lab-light-02-640.webp",
-      "1280": "media/lab-light/lab-light-02-1280.webp",
-      "2000": "media/lab-light/lab-light-02-2000.webp"
-     },
-     "width": 2400,
-     "height": 3000,
-     "alt": "Lab Light 02",
-     "lqip": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAAAwBACdASoYAB4APu1qrlCppaQiqAqpMB2JQBlABp1sB+Wlu5ckXXAbKgAA/u/qALxTYehN3Vd9/b+P3STyzZbOOSJluy8mD5dSvAPDxQzjclD/MQmCxoTFEa+rOQVauB/jMFTGmYAAAA=="
-    },
-    {
-     "type": "image",
-     "name": "lab-light-03",
-     "src": "media/lab-light/lab-light-03-2000.webp",
-     "srcset": {
-      "640": "media/lab-light/lab-light-03-640.webp",
-      "1280": "media/lab-light/lab-light-03-1280.webp",
-      "2000": "media/lab-light/lab-light-03-2000.webp"
-     },
-     "width": 3000,
-     "height": 2000,
-     "alt": "Lab Light 03",
-     "lqip": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAABwAwCdASoYABAAPu1Ct1apoqakGAEwHYljALDsE/QtLt4wIEAA/tQVFE6oc+h+yR/pck3G6bxY3du47s1obtl8aD2NCFw77PlfJYIA"
-    },
-    {
-     "type": "image",
-     "name": "lab-light-04",
-     "src": "media/lab-light/lab-light-04-2000.webp",
-     "srcset": {
-      "640": "media/lab-light/lab-light-04-640.webp",
-      "1280": "media/lab-light/lab-light-04-1280.webp",
-      "2000": "media/lab-light/lab-light-04-2000.webp"
-     },
-     "width": 2000,
-     "height": 3000,
-     "alt": "Lab Light 04",
-     "lqip": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAABwBQCdASoYACQAPuVipU2pJaOiNVQMASAciWcAwCgJHNh7mbIq8/l2XkQt2vJBRuDuL/5QAP7IRczpGBaJgUdGZ5XaefNjwh50f6jyNs02vUaaCIEmi0kIbvB/xcf50ojesskFLmBCtrEc3A4EerluUP9d/sI02AAAAA=="
-    },
-    {
-     "type": "image",
-     "name": "lab-light-05",
-     "src": "media/lab-light/lab-light-05-2000.webp",
-     "srcset": {
-      "640": "media/lab-light/lab-light-05-640.webp",
-      "1280": "media/lab-light/lab-light-05-1280.webp",
-      "2000": "media/lab-light/lab-light-05-2000.webp"
-     },
-     "width": 2600,
-     "height": 2600,
-     "alt": "Lab Light 05",
-     "lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAAAwBACdASoYABgAPt1UpE2opCOiN/qoARAbiWcAAFu1WdBwdlv3O720DRAA/u+5KGFhPpxomlCHkZJd4SHI8R2vSiSpOWVE4b4AAA=="
-    },
-    {
-     "type": "image",
-     "name": "lab-light-06",
-     "src": "media/lab-light/lab-light-06-2000.webp",
-     "srcset": {
-      "640": "media/lab-light/lab-light-06-640.webp",
-      "1280": "media/lab-light/lab-light-06-1280.webp",
-      "2000": "media/lab-light/lab-light-06-2000.webp"
-     },
-     "width": 2000,
-     "height": 3000,
-     "alt": "Lab Light 06",
-     "lqip": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAABwBACdASoYACQAPt1YpE29KSOiNVv8A6AbiWcAx+Qv2fsdtgU7TS4KEjzn4AD+77bnFQ2JgndM6fVEGo04k6pMzC8lc4XMkIRryl8FRFDh7EH5gVxq6Hdc64uTBIQH1VQAAA=="
-    }
-   ]
-  },
-  {
-   "slug": "night-drive",
-   "title": "Night Drive",
-   "year": "2024",
-   "description": "Sodium light, wet asphalt and the hour after the city goes quiet.",
-   "hidden": false,
-   "cover": {
-    "type": "image",
-    "name": "night-drive-01",
-    "src": "media/night-drive/night-drive-01-2000.webp",
-    "srcset": {
-     "640": "media/night-drive/night-drive-01-640.webp",
-     "1280": "media/night-drive/night-drive-01-1280.webp",
-     "2000": "media/night-drive/night-drive-01-2000.webp"
-    },
-    "width": 2400,
-    "height": 3000,
-    "alt": "Night Drive 01",
-    "lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAACQAwCdASoYAB4APu1mqk2ppaQiMAgBMB2JQBjkYAA6JFmDerP0AP7wxBFy7WisD4CeCP4P4aCJSCWTZqBLAS+R0baxZ+/n/AAAAA=="
-   },
-   "items": [
-    {
-     "type": "image",
-     "name": "night-drive-01",
-     "src": "media/night-drive/night-drive-01-2000.webp",
-     "srcset": {
-      "640": "media/night-drive/night-drive-01-640.webp",
-      "1280": "media/night-drive/night-drive-01-1280.webp",
-      "2000": "media/night-drive/night-drive-01-2000.webp"
-     },
-     "width": 2400,
-     "height": 3000,
-     "alt": "Night Drive 01",
-     "lqip": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAACQAwCdASoYAB4APu1mqk2ppaQiMAgBMB2JQBjkYAA6JFmDerP0AP7wxBFy7WisD4CeCP4P4aCJSCWTZqBLAS+R0baxZ+/n/AAAAA=="
-    },
-    {
-     "type": "image",
-     "name": "night-drive-02",
-     "src": "media/night-drive/night-drive-02-2000.webp",
-     "srcset": {
-      "640": "media/night-drive/night-drive-02-640.webp",
-      "1280": "media/night-drive/night-drive-02-1280.webp",
-      "2000": "media/night-drive/night-drive-02-2000.webp"
-     },
-     "width": 3000,
-     "height": 1690,
-     "alt": "Night Drive 02",
-     "lqip": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAACwAwCdASoYAA4APu1kqU2ppaQiMAgBMB2JaACdACIfZZmh5myiYAD+7DdV/k3AcGPIniHw7d9H6+dQP6/cCOsYkADgqlV/WAVRBgl/cwAAAA=="
-    },
-    {
-     "type": "image",
-     "name": "night-drive-03",
-     "src": "media/night-drive/night-drive-03-2000.webp",
-     "srcset": {
-      "640": "media/night-drive/night-drive-03-640.webp",
-      "1280": "media/night-drive/night-drive-03-1280.webp",
-      "2000": "media/night-drive/night-drive-03-2000.webp"
-     },
-     "width": 3000,
-     "height": 1690,
-     "alt": "Night Drive 03",
-     "lqip": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAABQBACdASoYAA4APu1iqU2ppaOiMAgBMB2JaACdMoRwJoACcrsR7/081A4AAP7p2iG8pYNjS/6Dr1q5ulPpfuLVPwCyCUez5nrTUFx16UMd+LjFhD584m70Uz8nIfZVW2czsoIGgwsAAA=="
-    },
-    {
-     "type": "image",
-     "name": "night-drive-04",
-     "src": "media/night-drive/night-drive-04-2000.webp",
-     "srcset": {
-      "640": "media/night-drive/night-drive-04-640.webp",
-      "1280": "media/night-drive/night-drive-04-1280.webp",
-      "2000": "media/night-drive/night-drive-04-2000.webp"
-     },
-     "width": 2600,
-     "height": 2600,
-     "alt": "Night Drive 04",
-     "lqip": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAABwBQCdASoYABgAPuVep02pJSOiN/VYASAciUATpm0PSQKkYwvZBpkEQXVFhTkRUMhQtscAAP7ww0r2PtG73g5GYQX3TMO4uIJkYUMyWWlgvSH8/JGjaTBiclFfQYviMAPCwIAA"
-    },
-    {
-     "type": "image",
-     "name": "night-drive-05",
-     "src": "media/night-drive/night-drive-05-2000.webp",
-     "srcset": {
-      "640": "media/night-drive/night-drive-05-640.webp",
-      "1280": "media/night-drive/night-drive-05-1280.webp",
-      "2000": "media/night-drive/night-drive-05-2000.webp"
-     },
-     "width": 3000,
-     "height": 1690,
-     "alt": "Night Drive 05",
-     "lqip": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAACQAwCdASoYAA4APu1iqU2ppaQiMAgBMB2JQBWGUABWW7Ef2mLAAP7uk/i7WW5lQPtyTCqtkK8CH9fpiOXOCySKgOQqFrL3Pxcl9+AA"
-    },
-    {
-     "type": "image",
-     "name": "night-drive-06",
-     "src": "media/night-drive/night-drive-06-2000.webp",
-     "srcset": {
-      "640": "media/night-drive/night-drive-06-640.webp",
-      "1280": "media/night-drive/night-drive-06-1280.webp",
-      "2000": "media/night-drive/night-drive-06-2000.webp"
-     },
-     "width": 3000,
-     "height": 2000,
-     "alt": "Night Drive 06",
-     "lqip": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAABwAwCdASoYABAAPu1iqk2ppaQiMAgBMB2JQBadA6+dVkDHkIAA/u6hkfLVsPWuTYqwivAybEG8lXMAXqv+mEOodJczXUdblZpsGUwrxgnADvOunoAAAA=="
-    },
-    {
-     "type": "video",
-     "name": "night-drive-07",
-     "src": "media/night-drive/night-drive-07.mp4",
-     "alt": "Night Drive 07",
-     "width": 1280,
-     "height": 720,
-     "lqip": "data:image/webp;base64,UklGRqQAAABXRUJQVlA4IJgAAACQBACdASoYAA4APu1kqk2ppaQiMAgBMB2JbACdMoMYQgDdAAHdl7mfrelNBYAA/uTP+u+punQs9roqkOO7qAvcCo3TBTYDdl+FMNwBg+syLMdQsKyC2DRxCv1O6qnLhCHpYUJnHaDQyE9O9+LhreHe/+T7f/8HJJzr8PRbu/WqB9un/Mo3HP7DIencJhMfpKKc+z5foiCAAA==",
-     "poster": "media/night-drive/night-drive-07-poster.webp"
-    }
-   ]
-  }
- ],
- "archive": [
-  {
-   "type": "image",
-   "name": "archive-01",
-   "src": "media/archive/archive-01-2000.webp",
-   "srcset": {
-    "640": "media/archive/archive-01-640.webp",
-    "1280": "media/archive/archive-01-1280.webp",
-    "2000": "media/archive/archive-01-2000.webp"
-   },
-   "width": 2600,
-   "height": 2600,
-   "alt": "Archive 01",
-   "lqip": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAACwBACdASoYABgAPu1kqU2ppaOiMAgBMB2JaACpFTuJW1zVN22TuHXLRS52NDAAAP79DG1z4rX9bkWoEVD62G/ehw5i4PRPJeVq1rWEDPeWzvW1/pE4jd7cY+4O1Ww1VlWOjOQrgAA="
-  },
-  {
-   "type": "image",
-   "name": "archive-02",
-   "src": "media/archive/archive-02-2000.webp",
-   "srcset": {
-    "640": "media/archive/archive-02-640.webp",
-    "1280": "media/archive/archive-02-1280.webp",
-    "2000": "media/archive/archive-02-2000.webp"
-   },
-   "width": 2600,
-   "height": 2600,
-   "alt": "Archive 02",
-   "lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAACwAwCdASoYABgAPtlepU2oJaOiN/qoAQAbCWcAyNQh1p4vOVeZvAD+7XfcxjEkav727GlpFZQCZJvDibMpEmNiT6AsyeZyPXEtqV9hdVCFgIgQAAA="
-  },
-  {
-   "type": "image",
-   "name": "archive-03",
-   "src": "media/archive/archive-03-2000.webp",
-   "srcset": {
-    "640": "media/archive/archive-03-640.webp",
-    "1280": "media/archive/archive-03-1280.webp",
-    "2000": "media/archive/archive-03-2000.webp"
-   },
-   "width": 3000,
-   "height": 2000,
-   "alt": "Archive 03",
-   "lqip": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAwAwCdASoYABAAPu1Ct1apoqakGAEwHYlnAABc0qNiZWbsAP7tPmge7EcFUGT7fYGfKhwQAAA="
-  },
-  {
-   "type": "image",
-   "name": "archive-04",
-   "src": "media/archive/archive-04-2000.webp",
-   "srcset": {
-    "640": "media/archive/archive-04-640.webp",
-    "1280": "media/archive/archive-04-1280.webp",
-    "2000": "media/archive/archive-04-2000.webp"
-   },
-   "width": 2400,
-   "height": 3000,
-   "alt": "Archive 04",
-   "lqip": "data:image/webp;base64,UklGRqIAAABXRUJQVlA4IJYAAACQBQCdASoYAB4APu1orVCppaQiqAqpMB2JYgC7MuN+AfH+DlbMMc6G7TYg7akkXqeJsEfawAD+SlV9VRTOixQIy6rGfV6wm1Krwpfnjjp1OHoTQPkbZru/giWPdluKxQMye+XT8XpP1uuuSfIaahb9EUnz8eSIqN4lnghHb8HSPVy4hLawV+kB+w2jOibgMZ6CBNaAAAA="
-  },
-  {
-   "type": "image",
-   "name": "archive-05",
-   "src": "media/archive/archive-05-2000.webp",
-   "srcset": {
-    "640": "media/archive/archive-05-640.webp",
-    "1280": "media/archive/archive-05-1280.webp",
-    "2000": "media/archive/archive-05-2000.webp"
-   },
-   "width": 2000,
-   "height": 3000,
-   "alt": "Archive 05",
-   "lqip": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAADQBACdASoYACQAPuFepE2opSOiNVgMARAcCUAX5wLNLAAMF+K94zH75dsZJ7sdAAD+8cneeuI5Sg80sqiTfkkpS3maxbZDTB/E11QhQXnCpNfzn52M15cKGwhutlBf+umXr46Jjh664g17KjnpipsXEAAAAA=="
-  },
-  {
-   "type": "image",
-   "name": "archive-06",
-   "src": "media/archive/archive-06-2000.webp",
-   "srcset": {
-    "640": "media/archive/archive-06-640.webp",
-    "1280": "media/archive/archive-06-1280.webp",
-    "2000": "media/archive/archive-06-2000.webp"
-   },
-   "width": 3000,
-   "height": 2000,
-   "alt": "Archive 06",
-   "lqip": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAADQAwCdASoYABAAPu1kqk4ppaQiMAgBMB2JQAALwe13A20F8cvUEIAA/pl1UNgUJ03v5Lf7zP9fy4NYIbsB4EO13T6YgicmfbwwRHoAAAA="
-  },
-  {
-   "type": "image",
-   "name": "archive-07",
-   "src": "media/archive/archive-07-2000.webp",
-   "srcset": {
-    "640": "media/archive/archive-07-640.webp",
-    "1280": "media/archive/archive-07-1280.webp",
-    "2000": "media/archive/archive-07-2000.webp"
-   },
-   "width": 2400,
-   "height": 3000,
-   "alt": "Archive 07",
-   "lqip": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAACwBACdASoYAB4APu1irU+ppSQiMBgIATAdiWcAwNw0aNfulif4BX5lOWRr8AUQAP7td9zNBNK1jU37dI5K5soYeFqS8yrK+MxJuIkCW8+4Nv/Xm+k5475MJzQYsgAA"
-  },
-  {
-   "type": "image",
-   "name": "archive-08",
-   "src": "media/archive/archive-08-2000.webp",
-   "srcset": {
-    "640": "media/archive/archive-08-640.webp",
-    "1280": "media/archive/archive-08-1280.webp",
-    "2000": "media/archive/archive-08-2000.webp"
-   },
-   "width": 2000,
-   "height": 3000,
-   "alt": "Archive 08",
-   "lqip": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAACwAwCdASoYACQAPu1oqU2/piQiMAgD8B2JZS2AChc//AhBuXOsAAD+70P/DAEFkOmt42bvs16P846/hgCMkSH/iRptsNZA4jpSu6xMJm2l/pjLd7nAFf9+gShvmztmWGHUn21LodZZ/kpUw3+S7gAA"
-  },
-  {
-   "type": "image",
-   "name": "archive-09",
-   "src": "media/archive/archive-09-2000.webp",
-   "srcset": {
-    "640": "media/archive/archive-09-640.webp",
-    "1280": "media/archive/archive-09-1280.webp",
-    "2000": "media/archive/archive-09-2000.webp"
-   },
-   "width": 3000,
-   "height": 1690,
-   "alt": "Archive 09",
-   "lqip": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAABQAwCdASoYAA4APu1iqk2ppaQiMAgBMB2JYwCw7CHcabsEIAD+3zMPkjvrDl0zaBbTPGi6mWV7a2gC8AA="
-  },
-  {
-   "type": "image",
-   "name": "archive-10",
-   "src": "media/archive/archive-10-2000.webp",
-   "srcset": {
-    "640": "media/archive/archive-10-640.webp",
-    "1280": "media/archive/archive-10-1280.webp",
-    "2000": "media/archive/archive-10-2000.webp"
-   },
-   "width": 3000,
-   "height": 1690,
-   "alt": "Archive 10",
-   "lqip": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAACQAgCdASoYAA4AA4BaJZQDE2EOyACxS78g9KuXAAD+6um1pjCpW2pI2H2MzX1rLvfLzpID2EMjAVaYBTKn2peE20VYAA=="
-  },
-  {
-   "type": "image",
-   "name": "archive-11",
-   "src": "media/archive/archive-11-2000.webp",
-   "srcset": {
-    "640": "media/archive/archive-11-640.webp",
-    "1280": "media/archive/archive-11-1280.webp",
-    "2000": "media/archive/archive-11-2000.webp"
-   },
-   "width": 2600,
-   "height": 2600,
-   "alt": "Archive 11",
-   "lqip": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAAAwAwCdASoYABgAPu1krE+pr6QiMBgIAfAdiWUAyywX1CswAP7vXYypFVyOPobkirNvrhHppu9VY5FEakKWdGAA"
-  },
-  {
-   "type": "image",
-   "name": "archive-12",
-   "src": "media/archive/archive-12-2000.webp",
-   "srcset": {
-    "640": "media/archive/archive-12-640.webp",
-    "1280": "media/archive/archive-12-1280.webp",
-    "2000": "media/archive/archive-12-2000.webp"
-   },
-   "width": 2600,
-   "height": 2600,
-   "alt": "Archive 12",
-   "lqip": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAADQAwCdASoYABgAPu1qrlEppaQiqAqpMB2JZwDIXBDNzkoPhfO0gngA/ufr89g8FbAjIWMaaN3A34JZ4b7SZe2AOCMBOXi6LFTInuhc/AA="
-  }
- ]
+ "series": [],
+ "archive": []
 };
