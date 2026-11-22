@@ -1,14 +1,14 @@
 // Site settings. Edit freely; nothing else needs to change.
 window.SITE = {
   name: "Shawn Morton",
-  tagline: "Photographer & Scientist",
-  email: "hello@example.com",            // used by the Contact link in the menu (mailto:)
+  tagline: "",
+  email: "shawnomorton2002@gmail.com",            // used by the Contact link in the menu (mailto:)
 
   // Home gallery
   cycleMs: 420,          // milliseconds per frame on the home page (lower = faster flicker)
   shuffleHome: true,     // randomise the order on every visit
-  shuffleArchive: false, // randomise the Archive wall on every visit
-  pauseOnHover: true,    // hold the current frame while the mouse is over it (desktop)
+  shuffleArchive: true, // randomise the Archive wall on every visit
+  pauseOnHover: false,    // hold the current frame while the mouse is over it (desktop)
 
   // Series pages
   openSeriesInNewTab: false,   // true = clicking a series opens it in a new browser tab
@@ -30,7 +30,6 @@ window.SITE = {
 
   // Social links. An entry with a blank url is hidden, so fill in the ones you use.
   social: [
-    { label: "Vimeo",     url: "" },
     { label: "LinkedIn",  url: "" },
     { label: "Instagram", url: "" },
   ],
