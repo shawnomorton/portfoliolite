@@ -30,8 +30,8 @@ window.SITE = {
 
   // Social links. An entry with a blank url is hidden, so fill in the ones you use.
   social: [
-    { label: "LinkedIn",  url: "" },
-    { label: "Instagram", url: "" },
+    { label: "LinkedIn",  url: "www.linkedin.com/in/shawnomorton" },
+    { label: "Instagram", url: "https://www.instagram.com/shawnomorton?dmpr=anlkN2sxdGJwaHRn&utm_source=qr" },
   ],
 
   // Small credit line at the bottom of the page. Blank text hides it.
