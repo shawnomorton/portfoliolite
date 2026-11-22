@@ -2,9 +2,7 @@
 window.SITE = {
   name: "Shawn Morton",
   tagline: "Photographer & Scientist",
-  email: "hello@example.com",            // used by the Contact link (mailto:)
-  instagram: "",                          // e.g. "https://instagram.com/yourname" (blank hides it)
-  location: "Based in —",
+  email: "hello@example.com",            // used by the Contact link in the menu (mailto:)
 
   // Home gallery
   cycleMs: 420,          // milliseconds per frame on the home page (lower = faster flicker)
@@ -17,6 +15,26 @@ window.SITE = {
   singlePage: false,           // true = everything lives in index.html (links become #series/name); handy for hosts that only serve one page
   layout: "feed",              // "feed" (one image after another) or "grid"
 
-  // Info page text (plain text or simple HTML)
-  bio: "Shawn Morton is a scientist and photographer. The pictures here are made between experiments: long walks, long drives and the occasional very late night in the lab.",
+  // Information page ---------------------------------------------------------
+  // Each string in `bio` is one paragraph. Simple HTML is allowed (<a href="...">, <em>).
+  bio: [
+    "Shawn Morton is a photographer and videographer, with over ten years of experience \u2013 Las Vegas raised, Reno shaped, and now Virginia based. His visual style is built on ineffable nostalgia: warm, soft, and quietly luminous.",
+    "His approach is informed by the natural world, a sense of the transcendent, and deep human connection. When not creating art, he is pursuing a Ph.D. in Genetics, Bioinformatics, and Computational Biology at Virginia Tech.",
+  ],
+
+  // Publications / clients. Plain names, or { name: "Afar", url: "https://..." } to link one.
+  // Leave the list empty ([]) to hide the whole "Press:" section.
+  press: [
+    // "Publication name",
+  ],
+
+  // Social links. An entry with a blank url is hidden, so fill in the ones you use.
+  social: [
+    { label: "Vimeo",     url: "" },
+    { label: "LinkedIn",  url: "" },
+    { label: "Instagram", url: "" },
+  ],
+
+  // Small credit line at the bottom of the page. Blank text hides it.
+  credit: { text: "", url: "" },
 };

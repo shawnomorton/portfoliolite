@@ -283,12 +283,16 @@
     if (SINGLE && !route().info) { root.hidden = true; return; }
     root.hidden = false;
     document.title = `Information — ${SITE.name || ""}`;
-    root.append(el("h1", { text: SITE.name || "" }), el("p", { html: SITE.bio || "" }),
-      el("dl", {}, [
-        el("dt", { text: "Contact" }), el("dd", {}, [el("a", { href: `mailto:${SITE.email}`, text: SITE.email })]),
-        SITE.instagram ? el("dt", { text: "Instagram" }) : null, SITE.instagram ? el("dd", {}, [el("a", { href: SITE.instagram, text: SITE.instagram.replace(/^https?:\/\//, ""), target: "_blank", rel: "noopener" })]) : null,
-        SITE.location ? el("dt", { text: "Location" }) : null, SITE.location ? el("dd", { text: SITE.location }) : null,
-      ]));
+    const paras = Array.isArray(SITE.bio) ? SITE.bio : [SITE.bio || ""];
+    paras.filter(Boolean).forEach(t => root.append(el("p", { class: "bio", html: t })));
+    const press = (SITE.press || []).filter(Boolean);
+    if (press.length) root.append(el("h2", { text: "Press:" }), el("ul", {}, press.map(x =>
+      typeof x === "string" ? el("li", { text: x }) : el("li", {}, [x.url ? el("a", { href: x.url, text: x.name, target: "_blank", rel: "noopener" }) : document.createTextNode(x.name)]))));
+    const social = (SITE.social || []).filter(x => x && x.url);
+    if (social.length) root.append(el("h2", { text: "Social Media:" }), el("ul", {}, social.map(x =>
+      el("li", {}, [el("a", { href: x.url, text: x.label, target: x.url.startsWith("mailto:") ? null : "_blank", rel: "noopener" })]))));
+    if (SITE.credit && SITE.credit.text) root.append(el("p", { class: "credit" }, [
+      SITE.credit.url ? el("a", { href: SITE.credit.url, text: SITE.credit.text, target: "_blank", rel: "noopener" }) : document.createTextNode(SITE.credit.text)]));
   }
 
   const page = location.pathname.split("/").pop() || "index.html";

@@ -36,9 +36,11 @@ button { font: inherit; color: inherit; background: none; border: 0; padding: 0;
 .brand small { display: block; font-weight: 400; opacity: 0.75; font-size: 11px; line-height: 1.2; }
 .nav { display: flex; gap: 18px; }
 .nav a[aria-current="page"] { text-decoration: underline; text-underline-offset: 3px; }
+.brand { white-space: nowrap; }
 @media (max-width: 560px) {
   .brand small { display: none; }
-  .nav { gap: 14px; }
+  .site-header { font-size: 12px; }
+  .nav { gap: 12px; }
 }
 
 /* Home: cycling frames ----------------------------------- */
@@ -48,13 +50,14 @@ button { font: inherit; color: inherit; background: none; border: 0; padding: 0;
   cursor: pointer; user-select: none; -webkit-user-select: none; -webkit-tap-highlight-color: transparent;
 }
 .cycler .frame {
-  position: absolute; inset: calc(var(--header-h) + 8px) var(--gutter) 56px;
-  display: flex; align-items: center; justify-content: center; opacity: 0;
+  /* edge to edge: no side gutters; same top/bottom spacing as before */
+  position: absolute; inset: calc(var(--header-h) + 8px) 0 56px 0;
+  display: block; opacity: 0;
 }
 .cycler .frame.is-on { opacity: 1; }
 .cycler .frame img {
-  max-width: 100%; max-height: 100%; width: auto; height: auto;
-  object-fit: contain; background-size: cover; background-position: center;
+  width: 100%; height: 100%; max-width: none; max-height: none;
+  object-fit: cover; object-position: center; background-size: cover; background-position: center;
 }
 .cycler .caption {
   position: absolute; left: var(--gutter); right: var(--gutter); bottom: 18px;
@@ -130,12 +133,11 @@ button { font: inherit; color: inherit; background: none; border: 0; padding: 0;
 body.has-lightbox { overflow: hidden; }
 
 /* Info page --------------------------------------------- */
-.info { padding: calc(var(--header-h) + 40px) var(--gutter) 80px; max-width: 640px; }
-.info h1 { font-size: 13px; font-weight: 500; margin: 0 0 16px; }
-.info p { margin: 0 0 16px; }
-.info dl { display: grid; grid-template-columns: 90px 1fr; gap: 6px 16px; margin: 32px 0 0; }
-.info dt { color: var(--muted); }
-.info dd { margin: 0; }
+.info { padding: calc(var(--header-h) + 40px) var(--gutter) 80px; max-width: 560px; }
+.info p { margin: 0 0 1.5em; }
+.info h2 { font-size: 13px; font-weight: 400; margin: 2.2em 0 .2em; }
+.info ul { list-style: none; padding: 0; margin: 0; }
+.info .credit { margin-top: 3em; color: var(--muted); font-size: 12px; }
 
 .site-footer { padding: 24px var(--gutter) 40px; color: var(--muted); font-size: 11px; display: flex; justify-content: space-between; gap: 16px; }
 
